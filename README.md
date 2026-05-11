@@ -1,1 +1,1 @@
-## This repository outlines a comprehensive strategy for identifying, preventing, and responding to fraudulent emails within an organization. It includes technical controls, user‑focused processes, and operational best practices to strengthen overall email security posture
+This repository outlines a comprehensive strategy for identifying, preventing, and responding to fraudulent emails within an organization. It includes technical controls, user‑focused processes, and operational best practices to strengthen overall email security posture
