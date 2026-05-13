@@ -104,4 +104,24 @@ b.	Optional = Validator or Keyword list
  <img width="1364" height="610" alt="Screenshot 2026-05-13 204721" src="https://github.com/user-attachments/assets/c49c4b1c-522f-480e-93c8-c9ae1ec337af" />
 
  <img width="1357" height="610" alt="Screenshot 2026-05-13 204902" src="https://github.com/user-attachments/assets/9130c4b0-83ff-4c63-b0a5-47a7be429f10" />
+ <img width="1357" height="601" alt="Screenshot 2026-05-13 221703" src="https://github.com/user-attachments/assets/3309025e-8a65-4bee-bac6-667c2aa936bd" />
 
+<img width="1350" height="611" alt="Screenshot 2026-05-13 222840" src="https://github.com/user-attachments/assets/baa99ee6-f667-46ab-9222-1f653ebf2425" />
+<img width="1350" height="611" alt="Screenshot 2026-05-13 222837" src="https://github.com/user-attachments/assets/7135e866-25d1-4a3e-93e1-b0de7cc6bad5" />
+<img width="1356" height="564" alt="Screenshot 2026-05-13 222529" src="https://github.com/user-attachments/assets/0c552a6e-32ae-44ed-a7fa-5ede2c97421c" />
+<img width="1356" height="564" alt="Screenshot 2026-05-13 222525" src="https://github.com/user-attachments/assets/b1b28dc2-187d-43d5-8d14-7855f52ab424" />
+
+# 3. Create DLP Policies to Block Copilot Usage
+Your goal: Prevent the finance team from using M365 Copilot to process content containing the custom SITs.
+Microsoft Purview DLP can block AI processing by using “Restrict AI apps and services” actions when sensitive data is detected.
+## Steps
+1.	Go to Purview → Data Loss Prevention → Policies → Create policy.
+   <img width="973" height="431" alt="image" src="https://github.com/user-attachments/assets/72e17602-cfe0-4343-a052-f8abbd304ee2" />
+   <img width="973" height="431" alt="image" src="https://github.com/user-attachments/assets/957c8e16-61b6-49a3-9a71-035722b7c81f" />
+ <img width="1360" height="606" alt="Screenshot 2026-05-13 223939" src="https://github.com/user-attachments/assets/6ca07a2f-9b84-4b30-aace-1189c0b85b7e" />
+<img width="1352" height="610" alt="Screenshot 2026-05-13 224040" src="https://github.com/user-attachments/assets/f97799f5-dc62-426e-bd7e-079c5dd5f9cf" />
+<img width="1356" height="614" alt="Screenshot 2026-05-13 224611" src="https://github.com/user-attachments/assets/84cc0852-d552-4b22-a529-c0b395df2145" />
+
+<img width="1359" height="599" alt="Screenshot 2026-05-13 224805" src="https://github.com/user-attachments/assets/cd5133d8-ed69-4b76-b5c1-d9af4230cc4f" />
+<img width="1359" height="599" alt="Screenshot 2026-05-13 224808" src="https://github.com/user-attachments/assets/f8479a4c-061d-4f04-b7cc-f7f4b25e96b4" />
+<img width="975" height="433" alt="image" src="https://github.com/user-attachments/assets/1f05d85a-628d-48a8-9473-58fe54a0aebd" />
