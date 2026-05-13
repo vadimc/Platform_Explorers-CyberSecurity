@@ -99,4 +99,9 @@ b.	Optional = Validator or Keyword list
 
 <img width="1357" height="604" alt="Screenshot 2026-05-13 203900" src="https://github.com/user-attachments/assets/32e4c64a-edfd-4bc4-a4b5-d6b7e73a8271" />
 
- 
+<img width="1359" height="609" alt="Screenshot 2026-05-13 204600" src="https://github.com/user-attachments/assets/071c71e3-c1e1-45db-a8e3-cd70b6880736" />
+
+ <img width="1364" height="610" alt="Screenshot 2026-05-13 204721" src="https://github.com/user-attachments/assets/c49c4b1c-522f-480e-93c8-c9ae1ec337af" />
+
+ <img width="1357" height="610" alt="Screenshot 2026-05-13 204902" src="https://github.com/user-attachments/assets/9130c4b0-83ff-4c63-b0a5-47a7be429f10" />
+
