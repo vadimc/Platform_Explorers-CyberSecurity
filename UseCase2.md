@@ -125,3 +125,5 @@ Microsoft Purview DLP can block AI processing by using “Restrict AI apps and s
 <img width="1359" height="599" alt="Screenshot 2026-05-13 224805" src="https://github.com/user-attachments/assets/cd5133d8-ed69-4b76-b5c1-d9af4230cc4f" />
 <img width="1359" height="599" alt="Screenshot 2026-05-13 224808" src="https://github.com/user-attachments/assets/f8479a4c-061d-4f04-b7cc-f7f4b25e96b4" />
 <img width="975" height="433" alt="image" src="https://github.com/user-attachments/assets/1f05d85a-628d-48a8-9473-58fe54a0aebd" />
+<img width="1363" height="598" alt="Screenshot 2026-05-15 170923" src="https://github.com/user-attachments/assets/1386ee6e-2539-4c22-943f-dcab60cf96b2" />
+<img width="1363" height="611" alt="Screenshot 2026-05-15 171855" src="https://github.com/user-attachments/assets/e4fa9d91-7388-4c60-b09c-73173682db4b" />
